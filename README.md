@@ -72,6 +72,6 @@ The dashboard also has **slicers** (Outlet Location Type, Outlet Size, Item Type
 
 ## 👤 Author
 
-**Your Name** — [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+ThangaPandian m  — [LinkedIn](www.linkedin.com/in/thangapandianm) · [GitHub]()
 
 ⭐ If you found this useful, give the repo a star!
